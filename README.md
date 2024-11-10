@@ -1,0 +1,1 @@
+Готовая авторизация стим без гуарда и парсинг цен какого-то предмета где appid можно взять с сайта steamdb https://steamdb.info/ , а название предмета с сайта https://steamcommunity.com/market/ из URL адреса
